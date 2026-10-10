@@ -1,0 +1,8 @@
+{
+  "name": "LIMA GARMENTS - Shop Memo & Business Manager",
+  "description": "Complete wholesale & retail clothing management system with automated memo billing, customer due ledger, multi-factory stock, cash flow tracking, and business reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
